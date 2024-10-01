@@ -2,6 +2,7 @@
 # AUTHOR: Oleg Panteleev
 # REPO: https://github.com/slave-of-television/shadowrocket-config
 # UPDATED: 2024-09-29 12:24:04
+DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,cdn-telegram.org
