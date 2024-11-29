@@ -1,9 +1,10 @@
 # NAME: Proxy
 # AUTHOR: Oleg Panteleev
 # REPO: https://github.com/slave-of-television/shadowrocket-config
-# UPDATED: 2024-09-29 12:24:04
+# UPDATED: 2024-11-29 12:06:42
 DOMAIN-SUFFIX,2ip.ru
 DOMAIN-SUFFIX,aol.com
+DOMAIN-SUFFIX,account.sony.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdnfacebook.com
@@ -58,6 +59,7 @@ DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,my.account.sony.com
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,openwrt.org
