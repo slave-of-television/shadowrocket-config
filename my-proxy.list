@@ -1,16 +1,19 @@
 # NAME: Proxy
 # AUTHOR: Oleg Panteleev
 # REPO: https://github.com/slave-of-television/shadowrocket-config
-# UPDATED: 2024-11-29 12:06:42
+# UPDATED: 25-01-2025 21:05:36
+DOMAIN,cdn.usefathom.com
 DOMAIN-SUFFIX,2ip.ru
-DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,account.sony.com
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,aol.com
 DOMAIN-SUFFIX,browserleaks.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdnfacebook.com
 DOMAIN-SUFFIX,cdnfbsbx.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,comments.app
 DOMAIN-SUFFIX,connect.facebook.net
 DOMAIN-SUFFIX,contest.com
@@ -50,6 +53,7 @@ DOMAIN-SUFFIX,graph.org
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,ifconfig.me
 DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,intercomcdn.com
 DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,jetbrans.com
 DOMAIN-SUFFIX,l.facebook.com
@@ -94,7 +98,9 @@ DOMAIN-SUFFIX,vimeo.com
 DOMAIN-SUFFIX,vimeocdn.com
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,zerkalo.io
+DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,anzu-us
+DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,deezer
 DOMAIN-KEYWORD,gameloft
 DOMAIN-KEYWORD,instagram
