@@ -1,0 +1,18 @@
+# NAME: YouTube
+# AUTHOR: Oleg Panteleev
+# REPO: https://github.com/slave-of-television/shadowrocket-config
+# UPDATED: 19-08-2025 18:40:23
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+DOMAIN-SUFFIX,i.ytimg.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,yt3.ggpht.com
+DOMAIN-SUFFIX,youtube.googleapis.com
+DOMAIN-KEYWORD,googlevideo
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-KEYWORD,youtube

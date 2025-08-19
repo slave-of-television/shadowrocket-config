@@ -1,0 +1,8 @@
+# NAME: Instagram
+# AUTHOR: Oleg Panteleev
+# REPO: https://github.com/slave-of-television/shadowrocket-config
+# UPDATED: 19-08-2025 18:34:07
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-KEYWORD,instagram

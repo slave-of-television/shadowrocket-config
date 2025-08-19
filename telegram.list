@@ -1,0 +1,8 @@
+# NAME: Telegram
+# AUTHOR: Oleg Panteleev
+# REPO: https://github.com/slave-of-television/shadowrocket-config
+# UPDATED: 19-08-2025 18:57:54
+IP-CIDR,91.108.56.0/22,Proxy,no-resolve
+IP-CIDR,91.108.4.0/22,Proxy,no-resolve
+IP-CIDR,109.239.140.0/24,Proxy,no-resolve
+IP-CIDR,149.154.160.0/20,Proxy,no-resolve

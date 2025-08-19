@@ -1,0 +1,8 @@
+# NAME: Anthropic
+# AUTHOR: Oleg Panteleev
+# REPO: https://github.com/slave-of-television/shadowrocket-config
+# UPDATED: 19-08-2025 19:21:20
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude

@@ -1,0 +1,27 @@
+# NAME: Gemini
+# AUTHOR: Oleg Panteleev
+# REPO: https://github.com/slave-of-television/shadowrocket-config
+# UPDATED: 19-08-2025 18:25:36
+DOMAIN,play.google.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,clients6.google.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,ai.google.com
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,bard.google.com
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gemini.googleapis.com
+DOMAIN-SUFFIX,generativeai.google
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-KEYWORD,colab
+DOMAIN-KEYWORD,developerprofiles
+DOMAIN-KEYWORD,generativelanguage

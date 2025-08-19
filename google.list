@@ -1,0 +1,25 @@
+# NAME: Google
+# AUTHOR: Oleg Panteleev
+# REPO: https://github.com/slave-of-television/shadowrocket-config
+# UPDATED: 19-08-2025 18:41:39
+DOMAIN,google.com
+DOMAIN,www.google.com
+DOMAIN,photos.google.com
+DOMAIN,docs.google.com
+DOMAIN,meet.google.com
+DOMAIN,play.google.com
+DOMAIN,tagassistant.google.com
+DOMAIN,tagmanager.google.com
+DOMAIN,analytics.google.com
+DOMAIN,ga-dev-tools.google
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, googlevideo.com
+DOMAIN-SUFFIX, googlesyndication.com
+#DOMAIN-SUFFIX, googleusercontent.com
